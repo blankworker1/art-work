@@ -177,7 +177,7 @@ testimoniato, incompiuto.)*
 
 ---
 
-## QUELCOSA DA BERE
+## QUALCOSA DA BERE
 
 *Ambientazione: dovunque sia più vicino. Nessuna indicazione di
 regia oltre a un invito aperto.*
