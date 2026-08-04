@@ -1,6 +1,4 @@
-# PPS
-### Presentazione Piano Straordinario
-#### Tutto è Arte — il protocollo fondativo di ART/WORK
+# ART/WORK
 
 ---
 
@@ -128,7 +126,7 @@ viene chiamata a garantire lo scambio — solo chi era già lì.
 
 ## 5. Applicazione
 
-**Lo svuota cantina.** Lo strato di incentivo, non la tesi. La forma
+**L'usato.** Lo strato di incentivo, non la tesi. La forma
 più semplice — oggetti mai pensati come arte, che portano comunque
 una prova di lavoro accumulata. Nessun prezzo è fisso; il valore è
 solo quello che due persone concordano nel momento dello scambio.
@@ -136,7 +134,7 @@ Questa fase attira le persone su termini che già conoscono. Non
 richiede ancora che nessuno accetti la tesi del protocollo — solo
 che si goda un buon svuota cantina.
 
-**Il mercato del baratto.** La performance artistica completa.
+**L'arte.** La performance artistica completa.
 Raggiunta nel momento in cui entrambe le parti scambiano arte con
 arte — qualsiasi prodotto o servizio con qualsiasi altro prodotto o
 servizio — con la comprensione condivisa che tutto ciò che viene
