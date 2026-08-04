@@ -2,7 +2,7 @@
 
 *A pop-up spinoff of ART/WORK — lower-key than la prova, lower-key than L'Incontro Pubblico.*
 
-**Tagline:** Art Work — everything is art. Or maybe nothing.
+**Tagline:** ART/WORK — everything is art. Or maybe nothing.
 
 ## What it is
 
@@ -12,7 +12,7 @@ It works like a funfair sideshow — the strength-tester with the boxing ball, n
 
 ## The mechanic
 
-A wireless mic sits at the truck. The screen displays a quiz question. Whoever picks up the mic answers — that's the work. The screen responds immediately: the answer lands, something visibly happens. No attendant runs it, no queue is managed, no one has to ask permission to try.
+A wireless mic sits at the truck. The screen displays a quiz question or a spin the wheel screen. Whoever picks up the mic answers — that's the work. The screen responds immediately: the answer lands, something visibly happens. No attendant runs it, no queue is managed, no one has to ask permission to try.
 
 The question itself isn't generic trivia — it relates to the prize on offer: where the object came from, what it used to be, something about the hand that changed it. Answering it means engaging with the object before it's won, not just guessing at random.
 
@@ -22,13 +22,11 @@ A single decorated, repurposed item — something mundane in its previous life, 
 
 ## What it primes
 
-Wheel of Fortune isn't a barter transaction — nobody's exchanging anything to play. But the object someone walks away with is already inside the barter economy: something that arrived through exchange, and something that could return to it. Whoever wins it has, without knowing it yet, acquired their first artifact for the next L'Usato table.
+Wheel of Fortune isn't a barter transaction — nobody's exchanging anything to play. But the object someone walks away with is already inside the barter economy: something that arrived through exchange, and something that could return to it.
 
-It also works as the lightest possible front door into ART/WORK. Anyone who's picked up the mic, answered a question, and watched a screen respond to them has already done the core gesture the wider project runs on — before they've ever seen la prova or heard the word "permuta."
+Whoever wins it has, without knowing it yet, acquired their first artifact for the next L'Arte, to be displayed or exchanged.
 
-## What it isn't
-
-It isn't the formal Incontro Pubblico, and it isn't la prova. It carries no PPS register, makes no request of any comune, and produces no document. It needs no comune-facing justification because it asks nothing of anyone but a guess and a moment's attention.
+It also works as the lightest possible front door into ART/WORK. Anyone who's picked up the mic, answered a question, and watched a screen respond to them has already done the core gesture the wider project runs on — before they've ever seen la prova or heard about bartering.
 
 ## Equipment
 
