@@ -5,20 +5,21 @@
 
 ## 0. Premessa
 
+L'arte non è mai stata definita da cosa sia un oggetto. È stata
+definita da chi ha il permesso di dirlo.
+
 Ogni oggetto porta la traccia di un lavoro. È stato fatto, scelto,
 usato, riparato, tenuto, o scartato da qualcuno. Quella traccia non
 scompare quando l'oggetto cambia mano — si accumula.
-
-L'arte non è mai stata definita da cosa sia un oggetto. È stata
-definita da chi ha il permesso di dirlo.
 
 **ART/WORK rimuove la struttura del permesso.**
 
 **La tesi di fondo: un cambiamento reale nelle relazioni umane e
 nell'economia richiede di riscoprire il baratto.** Il denaro non ha
 inventato il valore — ha sostituito una trattativa diretta tra
-persone con un verdetto di terzi. ART/WORK è una via di ritorno alla
-trattativa diretta, un passo deliberato alla volta.
+persone con un verdetto di terzi. 
+
+ART/WORK è una via di ritorno alla trattativa diretta, un passo deliberato alla volta.
 
 ---
 
@@ -34,8 +35,10 @@ prova sufficiente.
 Questo vale ugualmente per:
 
 - un oggetto sgomberato da una casa, mai pensato come arte
+- 
 - un oggetto fatto, riparato, o prodotto appositamente per essere
   offerto
+  
 - l'atto stesso dello scambio, in un mercato, in un baratto, in un
   dono
 
@@ -56,6 +59,7 @@ verifica.**
 Una sedia riparata prova la riparazione. Una casa sgomberata prova
 una vita vissuta al suo interno. Un oggetto scambiato prova che due
 persone hanno trovato un accordo. Non serve altro a testimoniarlo.
+
 L'artefatto parla da sé.
 
 ---
@@ -99,6 +103,7 @@ muove tra gli stati — senza gerarchia, senza un ordine obbligato,
 spesso simultaneamente.
 
 **Un controllore dipende dal fatto che i ruoli restino fissi.**
+
 Separa l'artista dal critico, il venditore dal compratore, il
 creatore dal pubblico, e serve qualcuno che arbitri tra loro. Fai
 collassare i ruoli nella stessa persona e al controllore non resta
@@ -127,8 +132,7 @@ viene chiamata a garantire lo scambio — solo chi era già lì.
 
 ## 5. Perché il teatro
 
-Non è intrattenimento aggiunto sopra un baratto. Il teatro è l'unico
-linguaggio che questo protocollo parlava già. La Sezione 4 elenca
+Il teatro è l'unico linguaggio che questo protocollo parlava già. Non è intrattenimento aggiunto sopra un baratto. La Sezione 4 elenca
 ruoli — creatore, venditore, performer, pubblico, artista — che sono,
 letteralmente, ruoli di scena: chi crea, chi vende, chi recita, chi
 guarda. Non sono stati presi in prestito dal teatro per rendere il
@@ -138,6 +142,7 @@ teatro.
 Non è teatro nel senso convenzionale. Non c'è un palco separato dalla
 platea. Non c'è un copione con battute fisse — solo indicazioni di
 regia. Non c'è nemmeno l'annuncio che una performance stia avvenendo.
+
 È più vicino a una tradizione precisa: il teatro invisibile di
 Augusto Boal, dove l'intervento avviene direttamente nella vita
 pubblica, senza preavviso, e chi osserva non può distinguere se ciò
@@ -150,9 +155,9 @@ sta vivendo.
 È anche l'unica forma che non pretende di durare. Uno spettacolo
 esiste solo mentre viene messo in scena, e ricomincia daccapo ogni
 volta — nessuna versione definitiva, nessuna copia obbligata a
-restare identica alla precedente. Per un protocollo che rifiuta la
-permanenza a favore della recidiva, non esisteva altro linguaggio che
-potesse davvero corrispondere.
+restare identica alla precedente. 
+
+Per un protocollo che rifiuta la permanenza a favore della recidiva, non esisteva altro linguaggio che potesse davvero corrispondere.
 
 I confini tra chi guarda e chi agisce restano volutamente sfumati -
 ma la performance teatrale ha comunque atti definiti, ciascuno
@@ -162,6 +167,7 @@ con il proprio nome.
 più semplice — oggetti mai pensati come arte, che portano comunque
 una prova di lavoro accumulata. Nessun prezzo è fisso; il valore è
 solo quello che due persone concordano nel momento dello scambio.
+
 Questa fase attira le persone su termini che già conoscono. Non
 richiede ancora che nessuno accetti la tesi del protocollo — solo
 che si goda un buon momento di scambio dell'usato.
@@ -172,11 +178,11 @@ arte — qualsiasi prodotto o servizio con qualsiasi altro prodotto o
 servizio — con la comprensione condivisa che tutto ciò che viene
 scambiato è arte. Nessuna moneta media, quindi nessuna autorità
 esterna stabilisce il prezzo di ciò che solo le due parti presenti
-possono concordare. Questa è la tesi resa reale, non solo argomentata:
-due persone, consapevolmente, che scambiano valore con valore senza
-nulla frapposto tra loro.
+possono concordare. 
 
-Ciò che era vero ma inosservato nell'Usato diventa, qui, vero e
+Questa è la tesi resa reale, non solo argomentata: due persone, 
+consapevolmente, che scambiano valore con valore senza nulla frapposto
+tra loro. Ciò che era vero ma inosservato nell'Usato diventa, qui, vero e
 conosciuto. La performance è la presa di coscienza, condivisa.
 
 **La Promessa.** La soglia più bassa di tutte. Dove sia l'Usato
@@ -185,7 +191,9 @@ richiede solo una consegna futura, i cui termini sono stabiliti solo
 dalle due persone che li fanno. Nessun oggetto cambia mano ancora —
 lo scambio è differito, e il differimento è il punto. A tenerlo in
 piedi non è un contratto ma chi lo ha testimoniato e chi conosce chi
-lo ha fatto. Questa fase rimuove l'ultimo controllore rimasto dopo la
+lo ha fatto. 
+
+Questa fase rimuove l'ultimo controllore rimasto dopo la
 scomparsa del denaro: l'autorità esterna che altrimenti servirebbe
 per far rispettare ciò che non è ancora accaduto.
 
