@@ -87,7 +87,7 @@ di libera partecipazione:
 - Luogo: piazza/area pubblica da concordare con l'Ufficio competente.
 - Durata: manifestazione di carattere periodico, a cadenza da
   definirsi in base alla partecipazione.
-- Allestimento: mediante veicolo commerciale di dimensioni contenute,
+- Allestimento: mediante mezzo di trazporto di dimensioni contenute,
   regolarmente autorizzato alla sosta secondo le ordinanze vigenti.
 - Nessuna vendita a fini di lucro; nessuna emissione di scontrini o
   ricevute fiscali, non trattandosi di attività commerciale ai sensi
