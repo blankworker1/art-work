@@ -1,4 +1,5 @@
 # Capire la permuta
+
 ### Una guida breve al baratto legale in Italia
 
 ---
