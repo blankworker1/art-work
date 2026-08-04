@@ -6,7 +6,7 @@ Prot. n. _______ del _______
 **OGGETTO:** Richiesta di patrocinio e autorizzazione all'occupazione
 temporanea di suolo pubblico per l'attuazione del **Piano
 Straordinario di Solidarietà e Scambio di Prossimità** (di seguito,
-**PPS**) — progetto pilota "ART/WORK"
+**PPS**) — progetto pilota del gruppo culturale "ART/WORK"
 
 ---
 
