@@ -8,7 +8,7 @@ Ogni oggetto che possiedi porta dentro il lavoro di qualcuno — fatto, scelto, 
 
 ---
 
-## Una nota su questo scritto
+## Una nota su questo copione
 
 Non c'è nessun dialogo qui da recitare. Non ci sono attori
 assegnati. Chiunque sia presente può occupare qualsiasi ruolo, e la
