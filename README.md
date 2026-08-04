@@ -57,5 +57,4 @@ chance it might stop. Recurrence doesn't. It can end between any two
 performances and start again exactly the same, because nothing was
 ever built that needed protecting from its own absence.
 
-Everything above is really one inversion, said in different
-languages: **nothing here was made to last. It was made to return.**
+Everything above is really captured in one sentence **nothing here was made to last. It was made to return.**
