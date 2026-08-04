@@ -24,3 +24,38 @@ There's no name painted on the truck, no logo, no association to join. A sign or
 Nothing illegal, nothing dangerous, nothing you don't actually have the right to offer. Beyond that — no rules, only trust.
 
 No gatekeepers. No authority. Just people, trusting each other, in public.
+
+Nothing here was built by adding rules. It was built by inverting
+the ones already assumed - one at a time, until what was left barely
+resembled what it started as.
+
+---
+
+**Art, not commerce.**
+**Barter, not trade.**
+**Exchange, not payment.**
+**People, not brands.**
+**Open, not closed, participation.**
+**Presence, not permission.**
+**Trust, not contract.**
+**Witness, not enforcement.**
+**Memory, not paperwork.**
+**Doing, not declaring.**
+**Discovery, not marketing.**
+**Honesty, not legitimacy.**
+**Rehearsal, not launch.**
+**Recurrence, not permanence.**
+
+---
+
+A launch asks to be noticed, once, and judged on the spot. A
+rehearsal asks nothing - it can fail quietly and try again next
+time, because it was never claiming to be finished.
+
+Permanence asks to be maintained, defended, kept alive against the
+chance it might stop. Recurrence doesn't. It can end between any two
+performances and start again exactly the same, because nothing was
+ever built that needed protecting from its own absence.
+
+Everything above is really one inversion, said in different
+languages: **nothing here was made to last. It was made to return.**
