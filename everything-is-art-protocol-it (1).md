@@ -154,6 +154,10 @@ restare identica alla precedente. Per un protocollo che rifiuta la
 permanenza a favore della recidiva, non esisteva altro linguaggio che
 potesse davvero corrispondere.
 
+I confini tra chi guarda e chi agisce restano volutamente sfumati -
+ma la performance teatrale ha comunque atti definiti, ciascuno
+con il proprio nome.
+
 **L'Usato.** Lo strato di incentivo, non la tesi. La forma
 più semplice — oggetti mai pensati come arte, che portano comunque
 una prova di lavoro accumulata. Nessun prezzo è fisso; il valore è
@@ -185,7 +189,7 @@ lo ha fatto. Questa fase rimuove l'ultimo controllore rimasto dopo la
 scomparsa del denaro: l'autorità esterna che altrimenti servirebbe
 per far rispettare ciò che non è ancora accaduto.
 
-Tutte e tre le fasi sono lo stesso protocollo in punti diversi di
+Tutte e tre gli atti sono lo stesso protocollo in punti diversi di
 visibilità. Nulla della tesi di fondo cambia tra loro.
 
 ---
