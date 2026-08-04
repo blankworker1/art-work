@@ -1,5 +1,4 @@
 # ART/WORK
-
 ## A shared understanding, not a contract
 This isn't a market with an organiser. It's a truck, parked in the same place, on the same rough schedule, because people keep showing up when it is. Nobody runs this. Everyone taking part is responsible for their own side of it. This page just makes sure everyone's starting from the same understanding.
 
