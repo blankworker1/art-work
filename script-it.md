@@ -4,7 +4,7 @@
 
 Ogni oggetto che possiedi porta dentro il lavoro di qualcuno — fatto, scelto, riparato, tenuto, o lasciato andare. Non serve una galleria, un critico, o un prezzo per dirti che quel lavoro è stato fatto. C'è già.
 
- LA PROVA è un performance itinerante costruito su quest'idea. Nessun esperto decide cosa conta. Nessun prezzo è fisso. Quello che porti, quello che scambi, e quello che prometti sono tutto lo spettacolo — e lo spettacolo intero è arte.
+ LA PROVA è una performance itinerante costruita su quest'idea. Nessun esperto decide cosa conta. Nessun prezzo è fisso. Quello che porti, quello che scambi, e quello che prometti sono tutto lo spettacolo — e lo spettacolo intero è arte.
 
 ---
 
