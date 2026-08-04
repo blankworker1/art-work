@@ -5,17 +5,19 @@
 **Nome della rappresentazione (ogni volta):** L'Incontro Pubblico
 
 **Titolo completo (riservato alla prima rappresentazione reale, nel passaggio da la Prova alla Prova Generale):**
-Incontro Pubblico con il Gruppo Culturale ART/WORK per la Discussione e Presentazione del Piano Straordinario di Solidarietà e Scambio di Prossimità
+Incontro Pubblico con il Gruppo Culturale ART/WORK per la Discussione e Presentazione del Piano Straordinario di Solidarietà e Scambio di Prossimità (PPS)
 
 ## Natura dell'atto
 
-L'Incontro Pubblico non è un quarto atto de la prova. È una rappresentazione distinta, con la propria data e il proprio ritmo, che non viene mai messa in scena insieme a L'Usato, L'Arte e La Promessa. Lo spazio è lo stesso — la piazza, il furgone — ma il registro cambia, come cambia il registro tra un'opera e una commedia nello stesso teatro. Dove la prova si muove nel silenzio del gesto, l'Incontro Pubblico si muove nella parola.
+L'Incontro Pubblico non è un quarto atto de La Prova. 
+
+È una rappresentazione distinta, con la propria data e il proprio ritmo, che non viene mai messa in scena insieme a L'Usato, L'Arte e La Promessa. Lo spazio è lo stesso — la piazza, il furgone — ma il registro cambia, come cambia il registro tra un'opera e una commedia nello stesso teatro. Dove la prova si muove nel silenzio del gesto, l'Incontro Pubblico si muove nella parola.
 
 Questo è l'atto rivolto al PPS. Non nasce dal nulla: viene messo in scena quando il progetto si avvicina al momento della Prova Generale, quando c'è già un piano comunale da presentare e una comunità che lo ha già, informalmente, vissuto.
 
 ## Il gruppo culturale
 
-Non esiste comitato, non esiste presidente, non esiste tessera. Il gruppo culturale ART/WORK esiste solo nella durata dell'incontro stesso — nasce quando il primo intervento viene raccolto e si scioglie quando l'atto finisce. Farne parte non è uno status: è un ruolo, come "artista" nel primo atto. Chi ha compreso il progetto, chi vi ha probabilmente già preso parte, può parlare come gruppo culturale. Ma la parola conta allo stesso modo per tutti — un aspetta-tore alla prima presenza vota come chi era presente dall'inizio.
+Non esiste comitato, non esiste presidente, non esiste tessera. Il gruppo culturale ART/WORK esiste solo nella durata dell'incontro stesso — nasce quando il primo intervento viene raccolto e si scioglie quando l'atto finisce. Farne parte non è uno status: è un ruolo, come "artista" nella Prova. Chi ha compreso il progetto, chi vi ha probabilmente già preso parte, può parlare come gruppo culturale. Ma la parola conta allo stesso modo per tutti — un aspetta-tore alla prima presenza vota come chi era presente dall'inizio.
 
 Ogni testo formale che ne esce è scritto collettivamente. Nessuno lo firma da solo.
 
