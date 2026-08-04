@@ -160,8 +160,18 @@ restare identica alla precedente.
 Per un protocollo che rifiuta la permanenza a favore della recidiva, non esisteva altro linguaggio che potesse davvero corrispondere.
 
 I confini tra chi guarda e chi agisce restano volutamente sfumati -
-ma la performance teatrale ha comunque atti definiti, ciascuno
-con il proprio nome.
+Boal chiamava questo ruolo ibrido **spett-attore** — chi guarda e chi agisce, fuso in una parola, attivato quando qualcuno lo chiama in causa. Qui nessuno chiama perché non c'è da dove chiamare. 
+
+Il pubblico di ART/WORK non sono spettatori nel senso comune: sono **aspetta-tori** — una parola che l'italiano offre quasi da sé, dove spettare e aspettare si toccano. Non si limitano a guardare. Aspettano, ed è un'attesa carica, non vuota, già pronta a diventare azione senza che nessuno la inviti a farlo. 
+
+Chiamarli così non è una nota a margine sulla performance. È già parte di essa — nessun invito viene fatto, nessuna richiesta di partecipare viene pronunciata, perché il nome stesso porta già dentro di sé il permesso.
+
+---
+
+## 6. La Performance 
+
+La performance teatrale ha comunque atti definiti, ciascuno
+con il proprio nome:
 
 **L'Usato.** Lo strato di incentivo, non la tesi. La forma
 più semplice — oggetti mai pensati come arte, che portano comunque
@@ -202,7 +212,7 @@ visibilità. Nulla della tesi di fondo cambia tra loro.
 
 ---
 
-## 6. Chiusura
+## 7. Chiusura
 
 Nulla di tutto questo crea arte. Rimuove solo ciò che si frapponeva
 tra l'artefatto e il suo riconoscimento.
