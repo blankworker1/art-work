@@ -1,10 +1,10 @@
-# PPS
-### Presentazione Piano Straordinario
-#### Una performance in tre atti — il copione compagno di ART/WORK
+# LA PROVA
+
+#### Una performance in tre atti
 
 ---
 
-## Una nota su questo copione
+## Una nota su questo scritto
 
 Non c'è nessun dialogo qui da recitare. Non ci sono attori
 assegnati. Chiunque sia presente può occupare qualsiasi ruolo, e la
@@ -12,9 +12,6 @@ maggior parte ne occuperà diversi prima che la performance finisca.
 Quello che segue sono indicazioni di regia per un pezzo che scrive
 le proprie battute ogni volta che viene messo in scena — una forma,
 non un copione nel senso convenzionale.
-
-Soglia d'accesso bassa: **Atto Primo** e **Atto Terzo**.
-La visione in azione: **Atto Secondo**.
 
 I tre atti non sono una sequenza che si conclude. Sono una ruota. La
 fine dell'Atto Terzo è l'inizio del prossimo Atto Primo.
@@ -180,7 +177,7 @@ testimoniato, incompiuto.)*
 
 ---
 
-## IL BICCHIERE
+## QUELCOSA DA BERE
 
 *Ambientazione: dovunque sia più vicino. Nessuna indicazione di
 regia oltre a un invito aperto.*
