@@ -1,6 +1,10 @@
-# PPS
-### Presentazione Piano Straordinario
-#### Una performance in quattro atti — il copione compagno di ART/WORK
+# LA PROVA
+
+## Premessa
+
+Ogni oggetto che possiedi porta dentro il lavoro di qualcuno — fatto, scelto, riparato, tenuto, o lasciato andare. Non serve una galleria, un critico, o un prezzo per dirti che quel lavoro è stato fatto. C'è già.
+
+LA PROVA è una performance teatrale (Slow Theatre) costruita su quest'idea. Nessun esperto decide cosa conta. Nessun prezzo è fisso. Quello che porti, quello che scambi, e quello che prometti sono tutto lo spettacolo — e lo spettacolo intero è arte.
 
 ---
 
