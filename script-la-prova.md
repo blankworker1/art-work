@@ -13,38 +13,33 @@ LA PROVA è una performance teatrale (Slow Theatre) costruita su quest'idea. Nes
 Non c'è nessun dialogo qui da recitare. Non ci sono attori
 assegnati. Chiunque sia presente può occupare qualsiasi ruolo, e la
 maggior parte ne occuperà diversi prima che la performance finisca.
+
 Quello che segue sono indicazioni di regia per un pezzo che scrive
 le proprie battute ogni volta che viene messo in scena — una forma,
 non un copione nel senso convenzionale.
 
 Soglia d'accesso bassa: **Atto Primo**, **Atto Terzo** e **Atto
-Quarto**. La visione in azione: **Atto Secondo**.
+Quarto**. 
 
-I quattro atti non sono una sequenza che si conclude. Sono una
-ruota. La fine dell'Atto Quarto è l'inizio del prossimo Atto Primo.
-
-**Atto Quarto — Il Brindisi** non ha oggetti, non ha lavagna, non ha
-soglia: chiunque sia presente ne fa parte semplicemente restando. Non
-è un sipario — nulla qui si chiude di netto — ma offre alla prova la
-chiusura di cui ha bisogno. È anche l'atto in cui la distinzione tra
-chi ha recitato un ruolo e chi ha solo guardato si dissolve del
-tutto: si beve tutti dalla stessa bottiglia.
+La visione in azione: **Atto Secondo**.
 
 L'Atto Primo e il Secondo possono iniziare nel momento in cui
 qualcuno arriva — la soglia è così bassa che gli sconosciuti
-entrano nei loro ruoli senza che nessuno glielo dica. L'Atto Terzo
-non funziona ancora così. La prima performance ha bisogno di ruoli
+entrano nei loro ruoli senza che nessuno glielo dica. 
+
+L'Atto Terzo non funziona ancora così. La prima performance ha bisogno di ruoli
 provati in anticipo — un PROPRIETARIO, un OSPITE, un TESTIMONE che
 già capiscono cosa gli viene chiesto — così l'atto ha un punto da
 cui iniziare prima che il pubblico più ampio capisca che può avere
 un posto anche lì.
 
-Tre regole arbitrarie governano l'intero pezzo, facendo
-silenziosamente ciò che nessun controllore fa più: ogni artefatto
-deve essere **trasportabile**; il valore si fissa **solo per
-scambio**, mai con un prezzo fisso; e dall'Atto Secondo in poi,
-l'artefatto viene **esposto come arte** — è la messa in scena da
-sola a portare il segnale, senza bisogno di dire nulla.
+Atto Quarto non ha oggetti, non ha soglia: chiunque sia presente ne fa parte semplicemente restando. Non è un sipario — nulla qui si chiude di netto — ma offre alla prova la chiusura di cui ha bisogno. È anche l'atto in cui la distinzione tra
+chi ha recitato un ruolo e chi ha solo guardato si dissolve del tutto: si beve tutti dalla stessa bottiglia.
+
+Tre regole arbitrarie governano l'intero pezzo, facendo silenziosamente ciò che nessun controllore fa più: 
+- ogni artefatto deve essere **trasportabile**
+- il valore si fissa **solo per scambio**, mai con un prezzo fisso
+- e dall'Atto Secondo in poi, l'artefatto viene **esposto come arte** — è la messa in scena da sola a portare il segnale, senza bisogno di dire nulla.
 
 ---
 
