@@ -49,8 +49,8 @@ The rationale is now decarbonization, and the authority is now EU climate target
 | Aragonese/Spanish | Feudal grants, royal archive | Dynastic possession | Foreign administration |
 | Chiudende (1820) | Enclosure/property law | Enlightenment modernization | Piedmontese state |
 | Deforestation (1820–83) | Demanial reclassification + sale | National interest, public order | Piedmontese state |
-| Dams/reclamation (1897–1962) | Eminent domain, nationalization | Public health, industrial development | Roman/national state |
-| Renewables (present) | EU/national siting targets | Decarbonization | EU via Roman state |
+| Dams/reclamation (1897–1962) | Eminent domain, nationalization | Public health, industrial development | Italian state |
+| Renewables (present) | EU/national siting targets | Decarbonization | EU via Italian state |
 
 What varies across every row is the rationale and the specific technology of the ledger. What does not vary is the geography of authorship: with the sole exception of a roughly 250-year window in the medieval period, the entity deciding what Sardinian land and resources are *for* has always been headquartered somewhere else — and each successive version of the ledger has been technically sharper than the last, closing gaps that the previous regime's apparatus left open. The chiudende could do what Rome, Byzantium, and Spain never managed: end the commons outright. The 20th-century state could do what the chiudende could not: submerge whole valleys under a reservoir with full legal sanction. The EU-scale renewable-energy apparatus can now assign a binding numerical quota to the island's own landscape from a jurisdiction Sardinia does not sit within.
 
