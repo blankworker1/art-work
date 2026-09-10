@@ -42,10 +42,10 @@ whatever they were first built to serve — a marketplace that forgets
 the people trading in it, a theatre that forgets the people standing
 in it.
 
-Slow Theatre declines both substitutions, and treats them as one
-decision rather than two. A performance with no price and a
-performance with no character are not separate reforms answering
-separate problems; they are the same refusal, applied to the two
+Picture, instead, a performance that declines both substitutions, 
+and treats them as one decision rather than two. A performance with
+no price and a performance with no character are not separate reforms
+answeringmseparate problems; they are the same refusal, applied to the two
 places a person is usually allowed to hide. Remove the price, and
 what a person offers has to be worth something on its own judgment,
 face to face, with nothing standing in to answer for it. Remove the
